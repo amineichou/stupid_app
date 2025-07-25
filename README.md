@@ -1,1 +1,1 @@
-# stupid_app
+# Python is trash
